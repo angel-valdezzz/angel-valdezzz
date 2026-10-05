@@ -13,7 +13,7 @@ Based in Mexico 🇲🇽
 ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=52D4D6)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7752BE?style=for-the-badge&logo=githubactions&logoColor=white)
 
-[Explore my projects](#selected-projects) · [Get in touch](mailto:angelgerardomolinavaldez@gmail.com)
+[Explore my projects](#selected-projects) · [Full portfolio map](PORTFOLIO.md) · [Get in touch](mailto:angelgerardomolinavaldez@gmail.com)
 
 </div>
 
@@ -48,6 +48,10 @@ I'm building toward an **SDET role**, with a strong interest in software design,
 
 - **[Robot Framework Selenium Testing](https://github.com/angel-valdezzz/robot-framework-selenium-testing)** — ParaBank web automation with business use cases, declarative Python page locators, data-driven tests, and Evidence Reporter integration.
 - **[Robot Framework API Testing](https://github.com/angel-valdezzz/robotframework-api-testing)** — API business flows with RequestsLibrary, data-driven scenarios, Request Reporter, Request Logger, and GitHub Actions verification.
+
+## More repositories
+
+Explore my [full portfolio map](PORTFOLIO.md) for additional tools, automation examples, learning roadmaps, development exercises, and keyboard projects.
 
 ## Technical toolkit
 
