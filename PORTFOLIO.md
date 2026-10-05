@@ -32,7 +32,6 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 | [playwright-python-example](https://github.com/angel-valdezzz/playwright-python-example) | Python and Playwright example repository. |
 | [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Cypress web interaction examples using DemoQA. |
 | [cypress-web-e2e-demo1](https://github.com/angel-valdezzz/cypress-web-e2e-demo1) | Additional Cypress E2E demo repository. |
-| [Stori-QA-Automation-Challenge](https://github.com/angel-valdezzz/Stori-QA-Automation-Challenge) | QA automation challenge repository. |
 | [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Additional Selenium, Python, and Robot Framework repository. |
 
 ## Learning roadmaps
