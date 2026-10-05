@@ -29,10 +29,10 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 
 | Repository | Focus |
 | --- | --- |
-| [playwright-python-example](https://github.com/angel-valdezzz/playwright-python-example) | Python and Playwright example repository. |
-| [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Cypress web interaction examples using DemoQA. |
-| [cypress-web-e2e-demo1](https://github.com/angel-valdezzz/cypress-web-e2e-demo1) | Additional Cypress E2E demo repository. |
-| [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Additional Selenium, Python, and Robot Framework repository. |
+| [playwright-python-example](https://github.com/angel-valdezzz/playwright-python-example) | ParaBank scenarios with pytest, Playwright, page objects, business keywords, and CSV data. |
+| [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Minimal Cypress browser navigation starter. |
+| [cypress-web-e2e-demo1](https://github.com/angel-valdezzz/cypress-web-e2e-demo1) | ParaBank workflows with Cypress, page objects, CSV fixtures, and Mochawesome reporting. |
+| [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Earlier Robot Framework support prototype: dataset utilities, PDF reports, and Robocop rules. |
 
 ## Learning roadmaps
 
