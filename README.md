@@ -8,6 +8,8 @@
 
 Based in Mexico 🇲🇽
 
+**English** · [Español](README.es.md)
+
 ![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=52D4D6)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-008C95?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=52D4D6)
@@ -54,6 +56,19 @@ I'm building toward an **SDET role**, with a strong interest in software design,
 Explore my [full portfolio map](PORTFOLIO.md) for additional tools, automation examples, learning roadmaps, development exercises, and keyboard projects.
 
 ## Technical toolkit
+
+**Development, packaging & documentation**
+
+![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032)
+![Poetry](https://img.shields.io/badge/Poetry-7752BE?style=for-the-badge&logo=poetry&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-008C95?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+
+**Additional testing experience**
+
+![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=52D4D6)
+![Playwright](https://img.shields.io/badge/Playwright-008C95?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-7752BE?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 | Focus | Technologies & practices |
 | --- | --- |
