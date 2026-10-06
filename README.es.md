@@ -4,7 +4,6 @@
 
 ### Ingeniero de QA Automation · En camino a SDET
 
-**Herramientas Python · Arquitectura de pruebas · Automatización web y API**
 
 Desde México 🇲🇽
 
@@ -29,20 +28,6 @@ Estoy avanzando hacia un **rol SDET**, con especial interés en diseño de softw
 
 ## Impacto técnico
 
-![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6)
-![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
-![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
-![Playwright](https://img.shields.io/badge/Playwright-14243D?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-14243D?style=for-the-badge&logo=cypress&logoColor=17202C)
-![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Poetry](https://img.shields.io/badge/Poetry-14243D?style=for-the-badge&logo=poetry&logoColor=60A5FA)
-![MkDocs](https://img.shields.io/badge/MkDocs-14243D?style=for-the-badge&logo=materialformkdocs&logoColor=526CFE)
-![JSON Schema](https://img.shields.io/badge/JSON_Schema-14243D?style=for-the-badge&logo=json&logoColor=555555)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-14243D?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539)
-![Docker](https://img.shields.io/badge/Docker-14243D?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 | Área | Resultado |
 | --- | --- |
@@ -74,30 +59,14 @@ Consulta mi [mapa completo del portafolio](PORTFOLIO.md) para encontrar más her
 
 ## Herramientas y prácticas
 
-**Desarrollo, empaquetado y documentación**
-
-![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032)
-![Poetry](https://img.shields.io/badge/Poetry-7752BE?style=for-the-badge&logo=poetry&logoColor=white)
-![MkDocs](https://img.shields.io/badge/MkDocs-008C95?style=for-the-badge&logo=materialformkdocs&logoColor=white)
-
-**Experiencia adicional en pruebas**
-
-![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=52D4D6)
-![Playwright](https://img.shields.io/badge/Playwright-008C95?style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-7752BE?style=for-the-badge&logo=cypress&logoColor=white)
-
 | Enfoque | Tecnologías y prácticas |
 | --- | --- |
-| Automatización principal | Python · Robot Framework · SeleniumLibrary · RequestsLibrary |
+| Automatización principal | ![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6) ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A) ![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB) |
 | Arquitectura | Page Object Model · Page Components · Keyword-Driven y Data-Driven Testing · POO · SOLID · Principios de Clean Architecture |
 | Ejecución y datos | Pabot · Ejecución headless · Listeners y APIs Python de Robot Framework · DataDriver · pytabify |
 | Validación API | HTTP · REST · JSON Schema · JSONPath · Python requests |
-| Entrega y documentación | Git · GitHub Actions · Integración con Azure DevOps CI/CD · Poetry · Empaquetado Python · MkDocs · Libdoc |
-| Experiencia práctica adicional | Playwright · Cypress · pytest |
-
-## Más allá de las pruebas
-
-Me gustan **las matemáticas, los cubos Rubik, la robótica, Arduino y los teclados mecánicos**. Disfruto entender cómo funcionan las cosas y convertir esa curiosidad en herramientas útiles.
+| Entrega y documentación | ![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Poetry](https://img.shields.io/badge/Poetry-7752BE?style=for-the-badge&logo=poetry&logoColor=white) ![MkDocs](https://img.shields.io/badge/MkDocs-008C95?style=for-the-badge&logo=materialformkdocs&logoColor=white)<br>Git · GitHub Actions · Integración con Azure DevOps CI/CD · Poetry · Empaquetado Python · MkDocs · Libdoc |
+| Experiencia práctica adicional | ![Playwright](https://img.shields.io/badge/Playwright-008C95?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-7752BE?style=for-the-badge&logo=cypress&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=52D4D6) |
 
 ## Contacto
 

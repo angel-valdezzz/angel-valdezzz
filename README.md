@@ -59,33 +59,14 @@ Explore my [full portfolio map](PORTFOLIO.md) for additional tools, automation e
 
 ## Technical toolkit
 
-![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6)
-![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
-![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
-![Playwright](https://img.shields.io/badge/Playwright-14243D?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Cypress](https://img.shields.io/badge/Cypress-14243D?style=for-the-badge&logo=cypress&logoColor=17202C)
-![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Poetry](https://img.shields.io/badge/Poetry-14243D?style=for-the-badge&logo=poetry&logoColor=60A5FA)
-![MkDocs](https://img.shields.io/badge/MkDocs-14243D?style=for-the-badge&logo=materialformkdocs&logoColor=526CFE)
-![JSON Schema](https://img.shields.io/badge/JSON_Schema-14243D?style=for-the-badge&logo=json&logoColor=555555)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-14243D?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539)
-![Docker](https://img.shields.io/badge/Docker-14243D?style=for-the-badge&logo=docker&logoColor=2496ED)
-
 | Focus | Technologies & practices |
 | --- | --- |
-| Core automation | Python · Robot Framework · SeleniumLibrary · RequestsLibrary |
+| Core automation | ![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6) ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A) ![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB) |
 | Architecture | Page Object Model · Page Components · Keyword-Driven & Data-Driven Testing · OOP · SOLID · Clean Architecture principles |
 | Execution & data | Pabot · Headless execution · Robot Framework listeners & Python APIs · DataDriver · pytabify |
-| API validation | HTTP · REST · JSON Schema · JSONPath · Python requests |
-| Delivery & documentation | Git · GitHub Actions · Azure DevOps CI/CD integration · Poetry · Python packaging · MkDocs · Libdoc |
-| Additional hands-on experience | Playwright · Cypress · pytest |
-
-## Beyond testing
-
-I enjoy **mathematics, Rubik's cubes, robotics, Arduino, and mechanical keyboards**. I like understanding how things work and turning that curiosity into useful tools.
+| API validation | ![JSON Schema](https://img.shields.io/badge/JSON_Schema-14243D?style=for-the-badge&logo=json&logoColor=555555) ![OpenAPI](https://img.shields.io/badge/OpenAPI-14243D?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539)<br>HTTP · REST · JSON Schema · JSONPath · Python requests |
+| Delivery & documentation | ![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Poetry](https://img.shields.io/badge/Poetry-14243D?style=for-the-badge&logo=poetry&logoColor=60A5FA) ![MkDocs](https://img.shields.io/badge/MkDocs-14243D?style=for-the-badge&logo=materialformkdocs&logoColor=526CFE)<br>Git · GitHub Actions · Azure DevOps CI/CD integration · Poetry · Python packaging · MkDocs · Libdoc |
+| Additional hands-on experience | ![Playwright](https://img.shields.io/badge/Playwright-14243D?style=for-the-badge&logo=playwright&logoColor=2EAD33) ![Cypress](https://img.shields.io/badge/Cypress-14243D?style=for-the-badge&logo=cypress&logoColor=17202C) ![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=0A9EDC) |
 
 ## Contact
 
