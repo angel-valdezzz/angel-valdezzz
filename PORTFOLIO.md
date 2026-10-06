@@ -12,7 +12,7 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 | [robotframework-evidence-reporter](https://github.com/angel-valdezzz/robotframework-evidence-reporter) | Business evidence reports with screenshots, milestones, and HTML/PDF/Word output. |
 | [robotframework-request-logger](https://github.com/angel-valdezzz/robotframework-request-logger) | Rich console logging for HTTP requests, responses, and assertion results. |
 | [pytabify](https://github.com/angel-valdezzz/pytabify) | Tabular test data for Python and Robot Framework using CSV, JSON, and XLSX. |
-| [robot-framework-selenium-testing](https://github.com/angel-valdezzz/robot-framework-selenium-testing) | ParaBank web automation with business scenarios and evidence reporting. |
+| [robotframework-selenium-testing](https://github.com/angel-valdezzz/robotframework-selenium-testing) | ParaBank web automation with business scenarios and evidence reporting. |
 | [robotframework-api-testing](https://github.com/angel-valdezzz/robotframework-api-testing) | Robot Framework API business flows with RequestsLibrary and reporting tools. |
 
 ## More tools and API projects
