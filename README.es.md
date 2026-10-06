@@ -29,6 +29,21 @@ Estoy avanzando hacia un **rol SDET**, con especial interés en diseño de softw
 
 ## Impacto técnico
 
+![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6)
+![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB)
+![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Playwright](https://img.shields.io/badge/Playwright-14243D?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Cypress](https://img.shields.io/badge/Cypress-14243D?style=for-the-badge&logo=cypress&logoColor=17202C)
+![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Poetry](https://img.shields.io/badge/Poetry-14243D?style=for-the-badge&logo=poetry&logoColor=60A5FA)
+![MkDocs](https://img.shields.io/badge/MkDocs-14243D?style=for-the-badge&logo=materialformkdocs&logoColor=526CFE)
+![JSON Schema](https://img.shields.io/badge/JSON_Schema-14243D?style=for-the-badge&logo=json&logoColor=555555)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-14243D?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539)
+![Docker](https://img.shields.io/badge/Docker-14243D?style=for-the-badge&logo=docker&logoColor=2496ED)
+
 | Área | Resultado |
 | --- | --- |
 | Ejecución de regresión | Reduje una suite representativa de **unas 5 horas a 1.5 horas**, una reducción estimada del **70 %**, mediante ejecución paralela. |
@@ -45,10 +60,12 @@ Estoy avanzando hacia un **rol SDET**, con especial interés en diseño de softw
 | **[Request Reporter](https://github.com/angel-valdezzz/robotframework-request-reporter)** | Reportes HTML autocontenidos para pruebas API, vinculando varios intercambios HTTP con sus resultados de validación. | [Documentación](https://angel-valdezzz.github.io/robotframework-request-reporter/es/) · [Demo HTML](https://angel-valdezzz.github.io/robotframework-request-reporter/es/examples/report.html) |
 | **[Request Logger](https://github.com/angel-valdezzz/robotframework-request-logger)** | Salida de consola con Rich para requests HTTP, responses y resultados de assertions registrados en Robot Framework. | [Documentación](https://angel-valdezzz.github.io/robotframework-request-logger/es/) · [Ejemplos de consola](https://angel-valdezzz.github.io/robotframework-request-logger/es/console/) |
 | **[pytabify](https://github.com/angel-valdezzz/pytabify)** | Lee, actualiza y exporta datos tabulares de prueba en CSV, JSON y XLSX, con interfaces Python y Robot Framework. | [Documentación](https://angel-valdezzz.github.io/pytabify/es/) · [PyPI](https://pypi.org/project/pytabify/) |
+| **[Paylo](https://github.com/angel-valdezzz/robotframework-paylo)** | Plantillas JSON con variables explícitas y tipos conservados. | [Docs](https://angel-valdezzz.github.io/robotframework-paylo/) · [PyPI](https://pypi.org/project/robotframework-paylo/) |
+| **[Marka](https://github.com/angel-valdezzz/robotframework-marka)** | Highlights, dots y anotaciones persistentes para capturas de Selenium. | [Docs](https://angel-valdezzz.github.io/robotframework-marka/) · [PyPI](https://pypi.org/project/robotframework-marka/) |
 
 ### Ejemplos de automatización
 
-- **[Robot Framework Selenium Testing](https://github.com/angel-valdezzz/robot-framework-selenium-testing)** — Automatización web de ParaBank con casos de uso de negocio, locators declarativos en Python, pruebas basadas en datos e integración con Evidence Reporter.
+- **[Robot Framework Selenium Testing](https://github.com/angel-valdezzz/robotframework-selenium-testing)** — Automatización web de ParaBank con casos de uso de negocio, locators declarativos en Python, pruebas basadas en datos e integración con Evidence Reporter.
 - **[Robot Framework API Testing](https://github.com/angel-valdezzz/robotframework-api-testing)** — Flujos de negocio API con RequestsLibrary, escenarios basados en datos, Request Reporter, Request Logger y verificación con GitHub Actions.
 
 ## Más repositorios
