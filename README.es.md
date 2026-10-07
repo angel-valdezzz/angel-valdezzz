@@ -2,8 +2,9 @@
 
 # Hola, soy Angel 👋
 
-### Ingeniero de QA Automation · En camino a SDET
+### QA Engineer · Automatización de pruebas · En camino a SDET
 
+**Herramientas Python · Arquitectura de pruebas · Automatización web y API**
 
 Desde México 🇲🇽
 
@@ -14,17 +15,15 @@ Desde México 🇲🇽
 ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=52D4D6)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7752BE?style=for-the-badge&logo=githubactions&logoColor=white)
 
-[Explora mis proyectos](#proyectos-seleccionados) · [Mapa completo del portafolio](PORTFOLIO.md) · [Contacto](mailto:angelgerardomolinavaldez@gmail.com)
+**[Visita mi portafolio](https://angel-valdezzz.github.io/es/)** · [Explora mis proyectos](#proyectos-seleccionados) · [Contacto](mailto:angelgerardomolinavaldez@gmail.com)
 
 </div>
 
 ## Sobre mí
 
-Soy **Angel Gerardo Molina Valdez**, ingeniero de QA Automation con **más de 5 años de experiencia** diseñando, desarrollando y mejorando soluciones de pruebas automatizadas.
+Desarrollo **herramientas Python y frameworks de automatización** que facilitan crear, ejecutar y entender las pruebas. Tengo **más de 5 años de experiencia** en pruebas automatizadas y actualmente soy **Tester Sr en EPAM Neoris, trabajando con AXA**.
 
-Actualmente soy **Tester Sr en EPAM Neoris, trabajando con AXA**. Me enfoco en frameworks de automatización, herramientas Python reutilizables, infraestructura de ejecución y reportes. Mi trabajo incluye automatización web en decenas de aplicaciones y mentoría técnica para el equipo.
-
-Estoy avanzando hacia un **rol SDET**, con especial interés en diseño de software, arquitectura de pruebas mantenible y herramientas que faciliten desarrollar, ejecutar y comprender las pruebas.
+Me enfoco en arquitectura de pruebas, automatización web y API, infraestructura de ejecución, reportes y mentoría técnica. Estoy avanzando hacia un **rol SDET (Software Development Engineer in Test)** mediante diseño de software y herramientas reutilizables.
 
 ## Impacto técnico
 
@@ -61,14 +60,28 @@ Consulta mi [mapa completo del portafolio](PORTFOLIO.md) para encontrar más her
 
 | Enfoque | Tecnologías y prácticas |
 | --- | --- |
-| Automatización principal | ![Python](https://img.shields.io/badge/Python-14243D?style=for-the-badge&logo=python&logoColor=3776AB) ![Robot Framework](https://img.shields.io/badge/Robot_Framework-14243D?style=for-the-badge&logo=robotframework&logoColor=00A6A6) ![Selenium](https://img.shields.io/badge/Selenium-14243D?style=for-the-badge&logo=selenium&logoColor=43B02A) ![Requests](https://img.shields.io/badge/Requests-14243D?style=for-the-badge&logo=python&logoColor=3776AB) |
+| Automatización | Python · Robot Framework · Selenium · RequestsLibrary |
 | Arquitectura | Page Object Model · Page Components · Keyword-Driven y Data-Driven Testing · POO · SOLID · Principios de Clean Architecture |
 | Ejecución y datos | Pabot · Ejecución headless · Listeners y APIs Python de Robot Framework · DataDriver · pytabify |
-| Validación API | HTTP · REST · JSON Schema · JSONPath · Python requests |
-| Entrega y documentación | ![Git](https://img.shields.io/badge/Git-14243D?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14243D?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Poetry](https://img.shields.io/badge/Poetry-7752BE?style=for-the-badge&logo=poetry&logoColor=white) ![MkDocs](https://img.shields.io/badge/MkDocs-008C95?style=for-the-badge&logo=materialformkdocs&logoColor=white)<br>Git · GitHub Actions · Integración con Azure DevOps CI/CD · Poetry · Empaquetado Python · MkDocs · Libdoc |
-| Experiencia práctica adicional | ![Playwright](https://img.shields.io/badge/Playwright-008C95?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-7752BE?style=for-the-badge&logo=cypress&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-14243D?style=for-the-badge&logo=pytest&logoColor=52D4D6) |
+| Validación API | HTTP · REST · JSON Schema · JSONPath · OpenAPI · Python requests |
+| Entrega y documentación | Git · GitHub Actions · Integración con Azure DevOps CI/CD · Poetry · Empaquetado Python · MkDocs · Libdoc |
+| Experiencia práctica adicional | Playwright · Cypress · pytest |
 
 ## Contacto
 
 **Correo:** [angelgerardomolinavaldez@gmail.com](mailto:angelgerardomolinavaldez@gmail.com)  
 **GitHub:** [@angel-valdezzz](https://github.com/angel-valdezzz)
+
+## Más allá de las pruebas
+
+Teclados mecánicos, setups coloridos, cubos Rubik e ideas que terminan convirtiéndose en proyectos.
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="320" alt="This is fine: un perro sentado con su café mientras la habitación arde a su alrededor." />
+
+*Cuando el pipeline está en rojo, pero el café sigue caliente.*
+
+<sub>This is fine · Personaje de <a href="https://www.kcgreendotcom.com/">KC Green</a> · <a href="https://giphy.com/gifs/QMHoU66sBXqqLqYvGO">Fuente del GIF</a></sub>
+
+</div>
