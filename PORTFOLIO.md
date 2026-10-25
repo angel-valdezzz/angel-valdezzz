@@ -1,6 +1,6 @@
 # Portfolio map
 
-A guide to my public repositories, organized by purpose. Start with the six featured projects for my reporting tools and Robot Framework automation examples, then explore the broader collection below.
+A guide to my public repositories, organized by purpose. Start with the six featured projects for my reporting tools and Robot Framework automation examples. Archived projects are labeled below and retained as historical references.
 
 [Back to my profile](https://github.com/angel-valdezzz) · [Browse all repositories](https://github.com/angel-valdezzz?tab=repositories)
 
@@ -30,44 +30,44 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 | Repository | Focus |
 | --- | --- |
 | [playwright-python-example](https://github.com/angel-valdezzz/playwright-python-example) | ParaBank scenarios with pytest, Playwright, page objects, business keywords, and CSV data. |
-| [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Minimal Cypress browser navigation starter. |
+| [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Minimal Cypress browser navigation starter. **Archived.** |
 | [cypress-web-e2e-demo1](https://github.com/angel-valdezzz/cypress-web-e2e-demo1) | ParaBank workflows with Cypress, page objects, CSV fixtures, and Mochawesome reporting. |
-| [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Earlier Robot Framework support prototype: dataset utilities, PDF reports, and Robocop rules. |
+| [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Earlier Robot Framework support prototype: dataset utilities, PDF reports, and Robocop rules. **Archived.** |
 
-## Learning roadmaps
+## Learning roadmaps — archived originals
 
-| Repository | Focus |
-| --- | --- |
-| [roadmap-python](https://github.com/angel-valdezzz/roadmap-python) | Python learning syllabus, from fundamentals to advanced topics. |
-| [roadmap-selenium](https://github.com/angel-valdezzz/roadmap-selenium) | Selenium learning repository. |
-| [roadmap-xpath](https://github.com/angel-valdezzz/roadmap-xpath) | XPath learning repository. |
-| [roadmap-robotframework](https://github.com/angel-valdezzz/roadmap-robotframework) | Robot Framework roadmap repository. |
-| [roadmap-javascript](https://github.com/angel-valdezzz/roadmap-javascript) | JavaScript learning repository. |
-| [roadmap-testing-performance](https://github.com/angel-valdezzz/roadmap-testing-performance) | Performance testing learning repository. |
-| [roadmap-regexp](https://github.com/angel-valdezzz/roadmap-regexp) | Regular expressions learning repository. |
-| [roadmap-software_architecture](https://github.com/angel-valdezzz/roadmap-software_architecture) | Software architecture learning repository. |
-
-## Software design and development practice
+These original collections are preserved for reference; ongoing learning material has been consolidated in a private repository.
 
 | Repository | Focus |
 | --- | --- |
-| [SOLID](https://github.com/angel-valdezzz/SOLID) | SOLID principles, examples, and practice. |
-| [design_patterns](https://github.com/angel-valdezzz/design_patterns) | Design patterns practice repository. |
-| [refactoring](https://github.com/angel-valdezzz/refactoring) | Refactoring practice repository. |
-| [python-desde-0](https://github.com/angel-valdezzz/python-desde-0) | Python fundamentals practice. |
-| [learningKotlin](https://github.com/angel-valdezzz/learningKotlin) | Kotlin learning repository. |
-| [python-directorio-usuarios](https://github.com/angel-valdezzz/python-directorio-usuarios) | Python user directory exercise. |
-| [omar-python-calculadora](https://github.com/angel-valdezzz/omar-python-calculadora) | Python calculator exercise. |
-| [java-preparatoria-tienda_online-discos](https://github.com/angel-valdezzz/java-preparatoria-tienda_online-discos) | Java school project. |
-| [c-calculo_promedio](https://github.com/angel-valdezzz/c-calculo_promedio) | C average calculation exercise. |
-| [curso-html-css](https://github.com/angel-valdezzz/curso-html-css) | HTML and CSS course repository. |
-| [vscode_shortcuts](https://github.com/angel-valdezzz/vscode_shortcuts) | VS Code shortcuts repository. |
+| [roadmap-python](https://github.com/angel-valdezzz/roadmap-python) | Python learning syllabus, from fundamentals to advanced topics. **Archived.** |
+| [roadmap-selenium](https://github.com/angel-valdezzz/roadmap-selenium) | Selenium learning repository. **Archived.** |
+| [roadmap-xpath](https://github.com/angel-valdezzz/roadmap-xpath) | XPath learning repository. **Archived.** |
+| [roadmap-javascript](https://github.com/angel-valdezzz/roadmap-javascript) | JavaScript learning repository. **Archived.** |
+| [roadmap-testing-performance](https://github.com/angel-valdezzz/roadmap-testing-performance) | Performance testing learning repository. **Archived.** |
+| [roadmap-regexp](https://github.com/angel-valdezzz/roadmap-regexp) | Regular expressions learning repository. **Archived.** |
+| [roadmap-software_architecture](https://github.com/angel-valdezzz/roadmap-software_architecture) | Software architecture learning repository. **Archived.** |
+
+## Software design and development practice — archived
+
+| Repository | Focus |
+| --- | --- |
+| [SOLID](https://github.com/angel-valdezzz/SOLID) | SOLID principles, examples, and practice. **Archived.** |
+| [design_patterns](https://github.com/angel-valdezzz/design_patterns) | Design patterns practice repository. **Archived.** |
+| [refactoring](https://github.com/angel-valdezzz/refactoring) | Refactoring practice repository. **Archived.** |
+| [python-desde-0](https://github.com/angel-valdezzz/python-desde-0) | Python fundamentals practice. **Archived.** |
+| [learningKotlin](https://github.com/angel-valdezzz/learningKotlin) | Kotlin learning repository. **Archived.** |
+| [python-directorio-usuarios](https://github.com/angel-valdezzz/python-directorio-usuarios) | Python user directory exercise. **Archived.** |
+| [omar-python-calculadora](https://github.com/angel-valdezzz/omar-python-calculadora) | Python calculator exercise. **Archived.** |
+| [java-preparatoria-tienda_online-discos](https://github.com/angel-valdezzz/java-preparatoria-tienda_online-discos) | Java school project. **Archived.** |
+| [c-calculo_promedio](https://github.com/angel-valdezzz/c-calculo_promedio) | C average calculation exercise. **Archived.** |
+| [vscode_shortcuts](https://github.com/angel-valdezzz/vscode_shortcuts) | VS Code shortcuts repository. **Archived.** |
 
 ## Console experiments and legacy work
 
 | Repository | Focus |
 | --- | --- |
-| [robotframework-pretty_console](https://github.com/angel-valdezzz/robotframework-pretty_console) | Robot Framework console project. |
+| [robotframework-pretty_console](https://github.com/angel-valdezzz/robotframework-pretty_console) | Robot Framework console project. **Archived.** |
 | [Evidoc-legacy](https://github.com/angel-valdezzz/Evidoc-legacy) | Legacy Evidoc repository. |
 
 ## Hardware interests
