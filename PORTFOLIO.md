@@ -21,7 +21,7 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 | --- | --- |
 | [PYJX2](https://github.com/angel-valdezzz/PYJX2) | Python automation for Jira and Xray, with CLI, TUI, and scripting interfaces. |
 | [evidoc](https://github.com/angel-valdezzz/evidoc) | Structured test evidence storage and PDF/DOCX report generation. |
-| [api-rest-starter](https://github.com/angel-valdezzz/api-rest-starter) | API testing starter with Python, requests, pytest, HTML reports, and a local test API. |
+| [api-rest-starter](https://github.com/angel-valdezzz/api-rest-starter) | Independent Python Requests/pytest examples against the separate Demo Users API: CRUD, lifecycle, validation and authentication. |
 | [demo-users-api](https://github.com/angel-valdezzz/demo-users-api) | FastAPI users service for API testing, with CRUD operations and schema validation. |
 | [python-api_rest-flask-libreria](https://github.com/angel-valdezzz/python-api_rest-flask-libreria) | Flask API practice repository. |
 
@@ -33,6 +33,25 @@ A guide to my public repositories, organized by purpose. Start with the six feat
 | [cypress-web-e2e-demo](https://github.com/angel-valdezzz/cypress-web-e2e-demo) | Minimal Cypress browser navigation starter. **Archived.** |
 | [cypress-web-e2e-demo1](https://github.com/angel-valdezzz/cypress-web-e2e-demo1) | ParaBank workflows with Cypress, page objects, CSV fixtures, and Mochawesome reporting. |
 | [web-selenium-python-robotframework-1](https://github.com/angel-valdezzz/web-selenium-python-robotframework-1) | Earlier Robot Framework support prototype: dataset utilities, PDF reports, and Robocop rules. **Archived.** |
+
+## Independent automation examples
+
+Separate repositories using ParaBank for UI and Demo Users API for HTTP. The linked runs passed real application scenarios. Each repository owns its dependencies and native reports.
+
+| Implementation | Scope | Verified run |
+| --- | --- | --- |
+| [JavaScript · Playwright · UI + API](https://github.com/angel-valdezzz/javascript-playwright-testing) | UI + API | [CI](https://github.com/angel-valdezzz/javascript-playwright-testing/actions/runs/40250132624) |
+| [TypeScript · Playwright · UI + API](https://github.com/angel-valdezzz/typescript-playwright-testing) | UI + API | [CI](https://github.com/angel-valdezzz/typescript-playwright-testing/actions/runs/40250266332) |
+| [Python · Playwright · UI](https://github.com/angel-valdezzz/playwright-python-example) | UI | [CI](https://github.com/angel-valdezzz/playwright-python-example/actions/runs/40250285643) |
+| [Python · pytest / Requests · API](https://github.com/angel-valdezzz/api-rest-starter) | API | [CI](https://github.com/angel-valdezzz/api-rest-starter/actions/runs/40250158319) |
+| [JavaScript · Selenium / Mocha](https://github.com/angel-valdezzz/javascript-selenium-mocha-testing) | UI | [CI](https://github.com/angel-valdezzz/javascript-selenium-mocha-testing/actions/runs/40250295541) |
+| [TypeScript · Selenium / Mocha](https://github.com/angel-valdezzz/typescript-selenium-mocha-testing) | UI | [CI](https://github.com/angel-valdezzz/typescript-selenium-mocha-testing/actions/runs/40250307173) |
+| [Cypress · ParaBank](https://github.com/angel-valdezzz/cypress-parabank-testing) | UI | [CI](https://github.com/angel-valdezzz/cypress-parabank-testing/actions/runs/40250322508) |
+| [Robot Framework · Browser](https://github.com/angel-valdezzz/robotframework-browser-testing) | UI | [CI](https://github.com/angel-valdezzz/robotframework-browser-testing/actions/runs/40250333989) |
+| [Java · Selenium / JUnit](https://github.com/angel-valdezzz/java-selenium-junit-testing) | UI | [CI](https://github.com/angel-valdezzz/java-selenium-junit-testing/actions/runs/40250345431) |
+| [Java · Selenium / TestNG](https://github.com/angel-valdezzz/java-selenium-testng-testing) | UI | [CI](https://github.com/angel-valdezzz/java-selenium-testng-testing/actions/runs/40250358996) |
+| [Java · Playwright / JUnit](https://github.com/angel-valdezzz/java-playwright-junit-testing) | UI | [CI](https://github.com/angel-valdezzz/java-playwright-junit-testing/actions/runs/40250370239) |
+| [Java · REST Assured / JUnit](https://github.com/angel-valdezzz/java-restassured-junit-testing) | API | [CI](https://github.com/angel-valdezzz/java-restassured-junit-testing/actions/runs/40250171059) |
 
 ## Learning roadmaps — archived originals
 

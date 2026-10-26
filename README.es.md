@@ -64,7 +64,7 @@ Lenguajes y herramientas con los que trabajo y conocimientos que forman parte de
 | Tecnología | Contexto y ejemplos |
 | --- | --- |
 | **Python** | Desarrollo herramientas para testing, componentes reutilizables de automatización, utilidades de datos y reportes.<br><br>[Paylo](https://github.com/angel-valdezzz/robotframework-paylo) · [pytabify](https://github.com/angel-valdezzz/pytabify) · [TestScript](https://github.com/angel-valdezzz/testscript) |
-| **Java** | Conocimientos del lenguaje y de programación orientada a objetos como parte de mi base técnica. |
+| **Java** | Aplico Java y programación orientada a objetos en ejemplos independientes de pruebas web y API con JUnit y TestNG. |
 | **JavaScript** | Conocimientos de JavaScript para leer y trabajar con código de automatización. |
 | **TypeScript** | Conocimientos de TypeScript y tipado estático. |
 | **SQL** | Conocimientos básicos adquiridos durante la carrera. Sé escribir sentencias SQL, aunque no lo he utilizado habitualmente desde entonces. |
@@ -206,6 +206,27 @@ Prácticas, herramientas reutilizables y un lenguaje experimental. Cada proyecto
 | **[Request Logger](https://github.com/angel-valdezzz/robotframework-request-logger)** | Salida de consola que conecta intercambios HTTP con los resultados de las assertions registradas.<br><br>[Código](https://github.com/angel-valdezzz/robotframework-request-logger) · [Docs](https://angel-valdezzz.github.io/robotframework-request-logger/es/) · [Ejemplo](https://angel-valdezzz.github.io/robotframework-request-logger/console/) |
 | **[Request Reporter](https://github.com/angel-valdezzz/robotframework-request-reporter)** | Reportes HTML independientes que conectan peticiones, respuestas y resultados de validación.<br><br>[Código](https://github.com/angel-valdezzz/robotframework-request-reporter) · [Docs](https://angel-valdezzz.github.io/robotframework-request-reporter/es/) · [Ejemplo](https://angel-valdezzz.github.io/robotframework-request-reporter/examples/report.html) |
 | **[TestScript](https://github.com/angel-valdezzz/testscript)** | Un lenguaje experimental y tipado para pruebas web y API, con intérprete Python y CLI.<br><br>[Código](https://github.com/angel-valdezzz/testscript) · [Docs](https://angel-valdezzz.github.io/testscript/es/) |
+
+### Ejemplos independientes de automatización
+
+Practico flujos web contra **ParaBank** y escenarios HTTP contra **Demo Users API**. Cada implementación tiene su repositorio, datos ficticios, dependencias y CI. El CI web inicia un contenedor aislado de ParaBank oficial; las suites API usan el servicio real independiente. Los enlaces de CI muestran ejecuciones verificadas de las aplicaciones.
+
+| Implementación | Alcance | Ejecución verificada |
+| --- | --- | --- |
+| [JavaScript · Playwright · UI + API](https://github.com/angel-valdezzz/javascript-playwright-testing) | UI + API | [CI](https://github.com/angel-valdezzz/javascript-playwright-testing/actions/runs/40250132624) |
+| [TypeScript · Playwright · UI + API](https://github.com/angel-valdezzz/typescript-playwright-testing) | UI + API | [CI](https://github.com/angel-valdezzz/typescript-playwright-testing/actions/runs/40250266332) |
+| [Python · Playwright · UI](https://github.com/angel-valdezzz/playwright-python-example) | UI | [CI](https://github.com/angel-valdezzz/playwright-python-example/actions/runs/40250285643) |
+| [Python · pytest / Requests · API](https://github.com/angel-valdezzz/api-rest-starter) | API | [CI](https://github.com/angel-valdezzz/api-rest-starter/actions/runs/40250158319) |
+| [JavaScript · Selenium / Mocha](https://github.com/angel-valdezzz/javascript-selenium-mocha-testing) | UI | [CI](https://github.com/angel-valdezzz/javascript-selenium-mocha-testing/actions/runs/40250295541) |
+| [TypeScript · Selenium / Mocha](https://github.com/angel-valdezzz/typescript-selenium-mocha-testing) | UI | [CI](https://github.com/angel-valdezzz/typescript-selenium-mocha-testing/actions/runs/40250307173) |
+| [Cypress · ParaBank](https://github.com/angel-valdezzz/cypress-parabank-testing) | UI | [CI](https://github.com/angel-valdezzz/cypress-parabank-testing/actions/runs/40250322508) |
+| [Robot Framework · Browser](https://github.com/angel-valdezzz/robotframework-browser-testing) | UI | [CI](https://github.com/angel-valdezzz/robotframework-browser-testing/actions/runs/40250333989) |
+| [Java · Selenium / JUnit](https://github.com/angel-valdezzz/java-selenium-junit-testing) | UI | [CI](https://github.com/angel-valdezzz/java-selenium-junit-testing/actions/runs/40250345431) |
+| [Java · Selenium / TestNG](https://github.com/angel-valdezzz/java-selenium-testng-testing) | UI | [CI](https://github.com/angel-valdezzz/java-selenium-testng-testing/actions/runs/40250358996) |
+| [Java · Playwright / JUnit](https://github.com/angel-valdezzz/java-playwright-junit-testing) | UI | [CI](https://github.com/angel-valdezzz/java-playwright-junit-testing/actions/runs/40250370239) |
+| [Java · REST Assured / JUnit](https://github.com/angel-valdezzz/java-restassured-junit-testing) | API | [CI](https://github.com/angel-valdezzz/java-restassured-junit-testing/actions/runs/40250171059) |
+
+El ejemplo anterior de Cypress sigue disponible en su repositorio original.
 
 Consulta mi [mapa completo del portafolio](PORTFOLIO.md) para encontrar más herramientas, ejemplos de automatización, rutas de aprendizaje, ejercicios de desarrollo y proyectos de teclados. El mapa está disponible en inglés.
 
