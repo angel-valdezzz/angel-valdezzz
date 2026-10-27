@@ -225,6 +225,10 @@ I practice browser flows against **ParaBank** and HTTP scenarios against **Demo 
 | [Java · Selenium / TestNG](https://github.com/angel-valdezzz/java-selenium-testng-testing) | UI | [CI](https://github.com/angel-valdezzz/java-selenium-testng-testing/actions/runs/40250358996) |
 | [Java · Playwright / JUnit](https://github.com/angel-valdezzz/java-playwright-junit-testing) | UI | [CI](https://github.com/angel-valdezzz/java-playwright-junit-testing/actions/runs/40250370239) |
 | [Java · REST Assured / JUnit](https://github.com/angel-valdezzz/java-restassured-junit-testing) | API | [CI](https://github.com/angel-valdezzz/java-restassured-junit-testing/actions/runs/40250171059) |
+| [Karate · API](https://github.com/angel-valdezzz/karate-api-testing) | API | [CI](https://github.com/angel-valdezzz/karate-api-testing/actions/runs/40253112425) |
+| [Java · Serenity Screenplay · UI + API](https://github.com/angel-valdezzz/java-serenity-screenplay-testing) | UI + API | [CI](https://github.com/angel-valdezzz/java-serenity-screenplay-testing/actions/runs/40253337725) |
+| [TypeScript · WebdriverIO](https://github.com/angel-valdezzz/typescript-webdriverio-testing) | UI | [CI](https://github.com/angel-valdezzz/typescript-webdriverio-testing/actions/runs/40253430930) |
+| [TestScript · Experimental · UI + API](https://github.com/angel-valdezzz/testscript-automation-examples) | UI + API | [CI](https://github.com/angel-valdezzz/testscript-automation-examples/actions/runs/40253354514) |
 
 The earlier Cypress example remains available in its original repository.
 
